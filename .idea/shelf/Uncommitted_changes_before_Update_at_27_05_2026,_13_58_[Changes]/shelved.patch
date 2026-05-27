@@ -1,0 +1,138 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"ALL\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"fb76e701-d3fc-47f5-88ac-e50d69584e27\" name=\"Changes\" comment=\"\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"GOROOT\" url=\"file://$USER_HOME$/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.26.3.darwin-arm64\" />\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\n  \"lastFilter\": {\n    \"state\": \"OPEN\",\n    \"assignee\": \"Sneypsleep90\"\n  }\n}]]></component>\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\n  \"selectedUrlAndAccountId\": {\n    \"url\": \"https://github.com/Sneypsleep90/OzberriesMarketPlace.git\",\n    \"accountId\": \"99ad14bb-a7f9-4f83-be72-a14292160c87\"\n  }\n}]]></component>\n  <component name=\"ProjectColorInfo\"><![CDATA[{\n  \"associatedIndex\": 4,\n  \"fromUser\": false\n}]]></component>\n  <component name=\"ProjectId\" id=\"3EHUMSbaloXVAuLxyYOKCE3mPCE\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"RunOnceActivity.GoLinterPluginOnboardingV2\": \"true\",\n    \"RunOnceActivity.GoLinterPluginStorageMigration\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252\": \"true\",\n    \"RunOnceActivity.git.unshallow\": \"true\",\n    \"RunOnceActivity.go.analysis.ui.options.defaults\": \"true\",\n    \"RunOnceActivity.go.formatter.settings.were.checked\": \"true\",\n    \"RunOnceActivity.go.modules.go.list.on.any.changes.was.set\": \"true\",\n    \"RunOnceActivity.typescript.service.memoryLimit.init\": \"true\",\n    \"git-widget-placeholder\": \"main\",\n    \"go.sdk.automatically.set\": \"true\",\n    \"last_opened_file_path\": \"/Users/magomedbersanov\",\n    \"nodejs_package_manager_path\": \"npm\"\n  }\n}]]></component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-gosdk-72a9cf600ed8-dfa3e7267ae0-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-253.32098.60\" />\n        <option value=\"bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-GO-253.32098.60\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"fb76e701-d3fc-47f5-88ac-e50d69584e27\" name=\"Changes\" comment=\"\" />\n      <created>1779834940240</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1779834940240</updated>\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision be8e905f95af02719285e6003f7b7c52abe3231f)
++++ b/.idea/workspace.xml	(date 1779879487624)
+@@ -4,7 +4,9 @@
+     <option name="autoReloadType" value="ALL" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="fb76e701-d3fc-47f5-88ac-e50d69584e27" name="Changes" comment="" />
++    <list default="true" id="fb76e701-d3fc-47f5-88ac-e50d69584e27" name="Changes" comment="">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -14,44 +16,44 @@
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+-  "lastFilter": {
+-    "state": "OPEN",
+-    "assignee": "Sneypsleep90"
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;,
++    &quot;assignee&quot;: &quot;Sneypsleep90&quot;
+   }
+-}]]></component>
+-  <component name="GithubPullRequestsUISettings"><![CDATA[{
+-  "selectedUrlAndAccountId": {
+-    "url": "https://github.com/Sneypsleep90/OzberriesMarketPlace.git",
+-    "accountId": "99ad14bb-a7f9-4f83-be72-a14292160c87"
++}</component>
++  <component name="GithubPullRequestsUISettings">{
++  &quot;selectedUrlAndAccountId&quot;: {
++    &quot;url&quot;: &quot;https://github.com/Sneypsleep90/OzberriesMarketPlace.git&quot;,
++    &quot;accountId&quot;: &quot;99ad14bb-a7f9-4f83-be72-a14292160c87&quot;
+   }
+-}]]></component>
+-  <component name="ProjectColorInfo"><![CDATA[{
+-  "associatedIndex": 4,
+-  "fromUser": false
+-}]]></component>
++}</component>
++  <component name="ProjectColorInfo">{
++  &quot;associatedIndex&quot;: 4,
++  &quot;fromUser&quot;: false
++}</component>
+   <component name="ProjectId" id="3EHUMSbaloXVAuLxyYOKCE3mPCE" />
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.GoLinterPluginOnboardingV2": "true",
+-    "RunOnceActivity.GoLinterPluginStorageMigration": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "RunOnceActivity.go.analysis.ui.options.defaults": "true",
+-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+-    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+-    "git-widget-placeholder": "main",
+-    "go.sdk.automatically.set": "true",
+-    "last_opened_file_path": "/Users/magomedbersanov",
+-    "nodejs_package_manager_path": "npm"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.GoLinterPluginOnboardingV2&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.GoLinterPluginStorageMigration&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.go.analysis.ui.options.defaults&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
++    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;/Users/magomedbersanov&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+@@ -73,4 +75,42 @@
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="VgoModernizerVersionTracker">
++    <upgrades>
++      <map>
++        <entry key="$PROJECT_DIR$/catalog-service/go.mod">
++          <value>
++            <VersionUpgradeInfo>
++              <version>1.26.3</version>
++              <timestamp>1779877461231</timestamp>
++            </VersionUpgradeInfo>
++          </value>
++        </entry>
++        <entry key="$PROJECT_DIR$/inventory-service/go.mod">
++          <value>
++            <VersionUpgradeInfo>
++              <version>1.26.3</version>
++              <timestamp>1779877460339</timestamp>
++            </VersionUpgradeInfo>
++          </value>
++        </entry>
++        <entry key="$PROJECT_DIR$/order-service/go.mod">
++          <value>
++            <VersionUpgradeInfo>
++              <version>1.26.3</version>
++              <timestamp>1779876820069</timestamp>
++            </VersionUpgradeInfo>
++          </value>
++        </entry>
++        <entry key="$PROJECT_DIR$/payment-service/go.mod">
++          <value>
++            <VersionUpgradeInfo>
++              <version>1.26.3</version>
++              <timestamp>1779876817086</timestamp>
++            </VersionUpgradeInfo>
++          </value>
++        </entry>
++      </map>
++    </upgrades>
++  </component>
+ </project>
+\ No newline at end of file
